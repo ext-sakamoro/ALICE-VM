@@ -1,0 +1,10 @@
+[package]
+name = "alice-vm"
+version = "1.0.0"
+edition = "2021"
+authors = ["Moroya Sakamoto"]
+license = "MIT"
+description = "Bytecode virtual machine with stack machine, register machine, and memory management"
+
+[lib]
+crate-type = ["rlib"]
