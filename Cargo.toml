@@ -3,7 +3,7 @@ name = "alice-vm"
 version = "1.0.0"
 edition = "2021"
 authors = ["Moroya Sakamoto"]
-license = "MIT"
+license = "MIT OR Apache-2.0"
 description = "Bytecode virtual machine with stack machine, register machine, and memory management"
 
 [lib]
